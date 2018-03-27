@@ -1,4 +1,4 @@
-PID,YearForecastMade,ForecastMethod,OpeningYear,OYADTForecast,DesignYear,DYADTForecast,Notes,NearActualOpenYear,NearOpenYrCount,RecentYr,RecentYrCnt,Year,TollType,FunctionalClass,Methodology,AreaType,ImpromentType,State
+PID,YearForecastMade,ForecastMethod,OpeningYear,OYADTForecast,DesignYear,DYADTForecast,Notes,NearActualOpenYear,NearOpenYrCount,RecentYr,RecentYrCnt,ActualOpeningYear,TollType,FunctionalClass,Methodology,AreaType,ImpromentType,State
 11378,1994,RC,2000,37190,2020,45190,gtg guesses on method since not documented,2000,42310,2008,39760,2005,1,1,6,1,11,41
 11378,1994,RC,2000,12920,2020,17390,gtg guesses on method since not documented,2000,15780,2008,15630,2005,1,3,6,1,11,41
 11378,1994,RC,2000,37820,2020,46060,gtg guesses on method since not documented,2000,42450,2008,39290,2005,1,1,6,1,11,41
