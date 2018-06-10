@@ -1,0 +1,49 @@
+BriefDescription,ProjectYear,FunctionalClass,ImprovementType,AreaTypeFuncClass,State,InternalProjectID,AreaTypeCounty,TollType,TrafficForecast,ForecastYear,ForecastYearType,YearForecastProduced,ForecastMethodology,ProjectID,SegmentID,CountState,Year_ofObservation,XMonth_ofObservation,Count,Station_Identifier,main_ProjectInformation.State
+"Lima, OH - Eastown Road",2009,3 - Principal Arterial,"4-In existing facility, add new dedicated lane(s), 7-New general-purpose lane(s) facility",3,OH,,Urban,1,10262,2009,1,,4,"OH-9100--Lima, OH - Eastown Road",1,OH,2010,,8474,14820298,OH
+"Lima, OH - Eastown Road",2009,3 - Principal Arterial,"4-In existing facility, add new dedicated lane(s), 7-New general-purpose lane(s) facility",3,OH,,Urban,1,19435,2009,1,,4,"OH-9100--Lima, OH - Eastown Road",2,OH,2017,6,15071,14830298,OH
+"Lima, OH - Eastown Road",2009,3 - Principal Arterial,"4-In existing facility, add new dedicated lane(s), 7-New general-purpose lane(s) facility",3,OH,,Urban,1,16755,2009,1,,4,"OH-9100--Lima, OH - Eastown Road",3,OH,2010,,12169,11620298,OH
+"Lima, OH - Eastown Road",2009,3 - Principal Arterial,"4-In existing facility, add new dedicated lane(s), 7-New general-purpose lane(s) facility",3,OH,,Urban,1,19099,2009,1,,4,"OH-9100--Lima, OH - Eastown Road",4,OH,2010,,15404,16590298,OH
+"Lima, OH - Eastown Road",2009,3 - Principal Arterial,"4-In existing facility, add new dedicated lane(s), 7-New general-purpose lane(s) facility",3,OH,,Urban,1,17181,2009,1,,4,"OH-9100--Lima, OH - Eastown Road",5,OH,2017,4,15219,16600298,OH
+"Lima, OH - Eastown Road",2009,3 - Principal Arterial,"4-In existing facility, add new dedicated lane(s), 7-New general-purpose lane(s) facility",3,OH,,Urban,1,14907,2009,1,,4,"OH-9100--Lima, OH - Eastown Road",6,OH,2010,,8515,11650298,OH
+US 41- Brown County,2017,3-Principal Arterial,"4-In existing facility, add new dedicated lane(s) & 2-In existing facility, add intersection capacity",3,WI,,Urban,1,60300,2015,1,2007,4,WI-9101--US 41- Brown County,1,WI,2017,6,54300,,WI
+US 41- Brown County,2017,3-Principal Arterial,"4-In existing facility, add new dedicated lane(s) & 2-In existing facility, add intersection capacity",3,WI,,Urban,1,73400,2015,1,2007,4,WI-9101--US 41- Brown County,2,WI,2017,7,71547,,WI
+US 41- Brown County,2017,3-Principal Arterial,"4-In existing facility, add new dedicated lane(s) & 2-In existing facility, add intersection capacity",3,WI,,Urban,1,91600,2015,1,2007,4,WI-9101--US 41- Brown County,3,WI,2016,11,65282,,WI
+US 41- Brown County,2017,3-Principal Arterial,"4-In existing facility, add new dedicated lane(s) & 2-In existing facility, add intersection capacity",3,WI,,Urban,1,67600,2015,1,2007,4,WI-9101--US 41- Brown County,4,WI,2017,7,70092,,WI
+US 41- Brown County,2017,3-Principal Arterial,"4-In existing facility, add new dedicated lane(s) & 2-In existing facility, add intersection capacity",3,WI,,Urban,1,53500,2015,1,2007,4,WI-9101--US 41- Brown County,5,WI,2017,7,57223,,WI
+US 41- Brown County,2017,3-Principal Arterial,"4-In existing facility, add new dedicated lane(s) & 2-In existing facility, add intersection capacity",3,WI,,Urban,1,44200,2015,1,2007,4,WI-9101--US 41- Brown County,6,WI,2017,7,42881,,WI
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,100300,2010,2,1987,4,MA-9102--Central Artery/Tunnel,1,MA,2010,,99000,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,84600,2010,2,1987,4,MA-9102--Central Artery/Tunnel,2,MA,2010,,77500,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,54000,2010,2,1987,4,MA-9102--Central Artery/Tunnel,3,MA,2010,,52000,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,113900,2010,2,1987,4,MA-9102--Central Artery/Tunnel,4,MA,2010,,103000,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,124700,2010,2,1987,4,MA-9102--Central Artery/Tunnel,5,MA,2010,,111500,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,86300,2010,2,1987,4,MA-9102--Central Artery/Tunnel,6,MA,2010,,91500,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,82300,2010,2,1987,4,MA-9102--Central Artery/Tunnel,7,MA,2010,,74500,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,119300,2010,2,1987,4,MA-9102--Central Artery/Tunnel,8,MA,2010,,115000,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,121600,2010,2,1987,4,MA-9102--Central Artery/Tunnel,9,MA,2010,,114000,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,111300,2010,2,1987,4,MA-9102--Central Artery/Tunnel,10,MA,2010,,108000,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,47300,2010,2,1987,4,MA-9102--Central Artery/Tunnel,11,MA,2010,,40500,,MA
+Central Artery/Tunnel,2005,1-Interstate or Limited-access facility,"8-New dedicated lane(s) facility; 
+4-In existing facility, add new dedicated lane(s);
+2-In existing facility, add intersection capacity",3,MA,,Urban,1,51200,2010,2,1987,4,MA-9102--Central Artery/Tunnel,12,MA,2010,,42000,,MA
