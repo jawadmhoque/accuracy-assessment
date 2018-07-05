@@ -1,0 +1,6 @@
+main_ProjectInformation.State,BriefDescription,ProjectYear,InternalProjectID,ImprovementType,AreaTypeFuncClass,TollType,TrafficForecast,ForecastYear,ForecastYearType,YearForecastProduced,ForecastingAgency,ForecastMethodology,SegmentDescription,ProjectID,SegmentID,CountID,Year_ofObservation,Count,Station_Identifier,main_TrafficCounts.State,CounterID,FunctionalClass
+FL,1123,1120,980,0,971,1123,1123,1120,1123,1120,1114,1111,684,1123,1123,1123,1123,1123,1123,1123,1123,980
+MI,38,38,38,0,38,38,38,38,38,38,38,38,32,38,38,38,38,38,34,38,38,38
+MN,2176,2176,2176,0,2176,2176,2176,2176,2176,2176,2176,2176,2176,2176,0,2176,2176,2176,0,2176,2176,0
+OH,12411,12413,10677,0,9781,12413,12413,12413,12413,12413,12405,12413,12413,12413,0,12413,12413,12413,0,12413,12413,12409
+WI,0,457,457,0,457,457,457,457,457,457,457,457,0,457,0,457,457,457,457,457,457,406
