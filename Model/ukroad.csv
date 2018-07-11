@@ -1,0 +1,314 @@
+Country,Location,Project,Section,Accuracy1,AMCAccuracy1,Zero,Main1,AMain1,Count1,ACount1,Yforecast,Yestimate,Yconstruct,Ytarget1,Yopen,Mopen,Ycount1
+UK,A5,Weeford - Fazeley,A5 Improvements,-0.03,-0.03,,21500,21823,20850,21163,2002,,2001,2005,2005,10,2005
+UK,A5,Weeford - Fazeley,A5 Old Route,0.45,0.45,,1450,1472,2100,2132,2002,,2001,2005,2005,10,2005
+UK,A5,Weeford - Fazeley,A38 Northern Arm,0.27,0.27,,32000,32480,40500,41108,2002,,2001,2005,2005,10,2005
+UK,A5,Weeford - Fazeley,A38 Southern Arm,0.03,0.03,,37000,37555,38000,38570,2002,,2001,2005,2005,10,2005
+UK,A5,Weeford - Fazeley,A5 Western Arm,-0.09,-0.09,,22500,22838,20500,20808,2002,,2001,2005,2005,10,2005
+UK,A5,Weeford - Fazeley,Existing stretches total,0.09,0.09,,92950,94344,101100,102617,2002,,2001,2005,2005,10,2005
+UK,A5,Weeford - Fazeley,New project total,-0.03,-0.03,,21500,21823,20850,21163,2002,,2001,2005,2005,10,2005
+UK,A5,Weeford - Fazeley,New network total,0.07,0.07,,114450,116167,121950,123779,2002,,2001,2004,2005,10,2005
+UK,A6,Alvaston Bypass,Shardlow Road,2.64,2.54,,4200,4263,15300,15074,1999,,2002,2003,2003,12,2005
+UK,A6,Alvaston Bypass,Bypass,-0.29,-0.31,,27700,28116,19750,19458,1999,,2002,2003,2003,12,2005
+UK,A6,Alvaston Bypass,Existing stretches total,2.64,2.54,,4200,4263,15300,15074,1999,,2002,2003,2003,12,2005
+UK,A6,Alvaston Bypass,New project total,-0.29,-0.31,,27700,28116,19750,19458,1999,,2002,2003,2003,12,2005
+UK,A6,Alvaston Bypass,New network total,0.10,0.07,,31900,32379,35050,34532,1999,,2002,2003,2003,12,
+UK,A6,Great Glen Bypass,Old A6,-0.24,-0.25,,,,,,1991,,2002,,2003,2,
+UK,A6,Great Glen Bypass,A6 Bypass,-0.27,-0.29,,,,,,1991,,2001,,2003,2,
+UK,A6,Great Glen Bypass,Existing stretches total,-0.24,-0.25,,,,,,1991,,2001,,2003,2,
+UK,A6,Great Glen Bypass,New project total,-0.27,-0.29,,,,,,1991,,2001,,2003,2,
+UK,A6,Great Glen Bypass,New network total,-0.27,-0.28,,,,,,1991,,2001,,2003,2,
+UK,A6,Rushden - Higham Ferres,"A5028 (old A6), S of Rushden",0.39,0.39,,5700,5700,7900,7900,1990,,2002,,2003,8,2004
+UK,A6,Rushden - Higham Ferres,"A5028 (old A6), N of Rushden",0.84,0.84,,11600,11600,21300,21300,1990,,2002,,2003,8,2004
+UK,A6,Rushden - Higham Ferres,"A5028 (old A6), N of Higham Ferrers",1.83,1.83,,4000,4000,11300,11300,1990,,2002,,2003,8,2004
+UK,A6,Rushden - Higham Ferres,B645 Kimbolton Rd,0.96,0.96,,2800,2800,5500,5500,1990,,2002,,2003,8,2004
+UK,A6,Rushden - Higham Ferres,"A6 bypass, S of A45",0.60,0.60,,7300,7300,11700,11700,1990,,2002,,2003,8,2004
+UK,A6,Rushden - Higham Ferres,Existing stretches total,0.91,0.91,,24100,24100,46000,46000,1990,,2002,,2003,8,2004
+UK,A6,Rushden - Higham Ferres,New project total,0.60,0.60,,7300,7300,11700,11700,1990,,2002,,2003,8,2004
+UK,A6,Rushden - Higham Ferres,New network total,0.05,0.75,,31400,18900,33000,33000,1990,,2002,,2003,8,2004
+UK,A11,Roudham Heath - Attleborough,A11 Hargham,0.55,0.34,,18200,21000,28200,28200,1991,,2001,1996,2003,3,2004
+UK,A11,Roudham Heath - Attleborough,A11 Attleborough Bypass (West of B1077),0.58,0.36,,15600,18100,24600,24600,1991,,,1996,2003,3,2004
+UK,A11,Roudham Heath - Attleborough,A11 Roudham Heath,0.55,0.34,,16800,19500,26100,26100,1991,,,1996,2003,3,2004
+UK,A11,Roudham Heath - Attleborough,"B1077 London Rd (East of A11, West of Fen St)",0.31,0.18,,3600,4000,4700,4700,1991,,,1996,2003,3,2004
+UK,A11,Roudham Heath - Attleborough,Hargham Road,0.42,0.13,,1200,1500,1700,1700,1991,,,1996,2003,3,2004
+UK,A11,Roudham Heath - Attleborough,Chalk Lane,0.00,-0.16,,800,950,800,800,1991,,,1996,2003,3,2004
+UK,A11,Roudham Heath - Attleborough,"Heath Rd, just south of Snetterton Jn (Nth of Ind.",0.00,-0.13,,2300,2650,2300,2300,1991,,,1996,2003,3,2004
+UK,A11,Roudham Heath - Attleborough,Harling Road,0.29,0.11,,2800,3250,3600,3600,1991,,,1996,2003,3,2004
+UK,A11,Roudham Heath - Attleborough,Existing stretches total,0.48,0.28,,43100,49950,63800,63800,1991,,,1996,2003,3,2004
+UK,A11,Roudham Heath - Attleborough,New project total,0.55,0.34,,18200,21000,28200,28200,1991,,,1996,2003,3,2004
+UK,A11,Roudham Heath - Attleborough,New network total,0.50,0.30,,61300,70950,92000,92000,1991,,,1996,2003,3,2004
+UK,A1,Ferrybridge to Hook Moor,A1 J40-41,0.05,0.05,,53950,53950,56424,56424,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,A1 J41-42,-0.11,-0.11,,58447,58447,51912,51912,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,A1 S of M1,-0.25,-0.25,,63469,63469,47755,47755,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,A1 S of Darrington,-0.14,-0.14,,73244,73244,63314,63314,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,A1 S of M62,-0.25,-0.25,,14794,14794,11164,11164,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,A1 between A645 & A162,-0.61,-0.61,,32300,32300,12695,12695,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,A1 between A162 & A63,-0.19,-0.19,,9734,9734,7920,7920,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,M62 J32-J32a,-0.06,-0.06,,76787,76787,72450,72450,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,M62 J32a-J33,0.10,0.10,,54493,54493,59861,59861,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,M62 J33-J34,0.24,0.24,,44763,44763,55724,55724,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,M63 between A1 & A656,-0.35,-0.35,,19262,19262,12586,12586,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,M63 E of A1 (W of new A1M),0.42,0.42,,8210,8210,11620,11620,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,M63 E of A1 (E of new A1M),0.41,0.41,,8858,8858,12481,12481,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,Existing stretches total,-0.07,-0.07,,342445,342445,319815,319815,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,New project total,-0.11,-0.11,,175866,175866,156091,156091,1992,,2003,2007,2006,1,2007
+UK,A1,Ferrybridge to Hook Moor,New network total,-0.08,-0.08,,518311,518311,475906,475906,1992,,2003,2007,2006,1,2007
+UK,A1,Willowburn - Denwick,A1,0.13,0.13,,,,,,,,2001,,2003,3,
+UK,A1,Willowburn - Denwick,North of A1,0.52,0.52,,,,,,,,2001,,2003,3,
+UK,A1,Willowburn - Denwick,South of A1,0.27,0.27,,,,,,,,2001,,2003,3,
+UK,A1,Willowburn - Denwick,Existing stretches total,0.36,0.36,,,,,,,,2001,,2003,3,
+UK,A1,Willowburn - Denwick,New project total,0.13,0.13,,,,,,,,2001,,2003,3,
+UK,A1,Willowburn - Denwick,New network total,0.25,0.25,,,,,,,,2001,,2003,3,
+UK,A1,Wetherby - Walshford,A1 North of J46,-0.04,-0.04,,76800,76800,73800,73800,2001,,2003,2006,2005,8,2006
+UK,A1,Wetherby - Walshford,A1 South of J46,-0.02,-0.02,,77300,77300,75900,75900,2001,,2003,2006,2005,8,2006
+UK,A1,Wetherby - Walshford,A1 South of J46,12.46,12.46,,260,260,3500,3500,2001,,2003,2006,2005,8,2006
+UK,A1,Wetherby - Walshford,Existing stretches total,12.46,12.46,,260,260,3500,3500,2001,,2003,2006,2005,8,2006
+UK,A1,Wetherby - Walshford,New project total,-0.03,-0.03,,154100,154100,149700,149700,2001,,2003,2006,2005,8,2006
+UK,A1,Wetherby - Walshford,New network total,-0.01,-0.01,,154360,154360,153200,153200,2001,,2003,2006,2005,8,2006
+UK,A2,Bean - Cobham,A2 Pepperhill,-0.07,-0.07,,133081,133081,124141,124141,2001,,2003,2006,2005,3,2006
+UK,A2,Bean - Cobham,A2 Bean,-0.03,-0.03,,121457,121457,117914,117914,2001,,2003,2006,2005,3,2006
+UK,A2,Bean - Cobham,A2 E of M25,0.00,0.00,,121196,121196,121785,121785,2001,,2003,2006,2005,3,2006
+UK,A2,Bean - Cobham,A2 Marley Cross,0.04,0.04,,102822,102822,107047,107047,2001,,2003,2006,2005,3,2006
+UK,A2,Bean - Cobham,M25 J2-3,0.05,0.05,,119672,119672,126006,126006,2001,,2003,2006,2005,3,2006
+UK,A2,Bean - Cobham,A282 N of A296,-0.06,-0.06,,141894,141894,133940,133940,2001,,2003,2006,2005,3,2006
+UK,A2,Bean - Cobham,M20 J1-2,0.04,0.04,,53814,53814,55965,55965,2001,,2003,2006,2005,3,2006
+UK,A2,Bean - Cobham,Existing stretches total,0.01,0.01,,539398,539398,544743,544743,2001,,2003,2006,2005,3,2006
+UK,A2,Bean - Cobham,New project total,-0.05,-0.05,,254538,254538,242055,242055,2001,,2003,2006,2005,3,2006
+UK,A2,Bean - Cobham,New network total,-0.01,-0.01,,793936,793936,786798,786798,2001,,2003,2006,2005,3,2006
+UK,A5,Nesscliffe Bypass,Nesscliffe Bypass,0.22,0.11,,16000,17495,19500,19500,1994,,2001,1998,2003,3,2004
+UK,A5,Nesscliffe Bypass,Old A5,0.13,0.03,,1100,1203,1240,1240,1994,,2001,1998,2003,3,2004
+UK,A5,Nesscliffe Bypass,Existing stretches total,0.13,0.03,,1100,1203,1240,1240,1994,,2001,1998,2003,3,2004
+UK,A5,Nesscliffe Bypass,New project total,0.22,0.11,,16000,17495,19500,19500,1994,,2001,1998,2003,3,2004
+UK,A5,Nesscliffe Bypass,New network total,0.21,0.11,,17100,18698,20740,20740,1994,,2001,1998,2003,3,2004
+UK,A10,"Wadesmill, High Cross and Colliers End Bypass",A10 bypass,-0.06,-0.06,,25000,25000,23500,23500,1991,1994,2002,2005,2004,8,2005
+UK,A10,"Wadesmill, High Cross and Colliers End Bypass",Old A10,0.16,0.16,,3350,3350,3900,3900,1991,1994,2002,2005,2004,8,2005
+UK,A10,"Wadesmill, High Cross and Colliers End Bypass",Existing stretches total,0.16,0.16,,3350,3350,3900,3900,1991,1994,2002,2005,2004,8,2005
+UK,A10,"Wadesmill, High Cross and Colliers End Bypass",New project total,-0.06,-0.06,,25000,25000,23500,23500,1991,1994,2002,2005,2004,8,2005
+UK,A10,"Wadesmill, High Cross and Colliers End Bypass",New network total,-0.03,-0.03,,28350,28350,27400,27400,1991,1994,2002,2005,2004,8,2005
+UK,A11,Attleborough Bypass,A11 Between B1077 & B1077 (Besthorpe),0.06,0.06,,24900,25274,26500,26898,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,A11 Attleborough Bypass (West of B1077),0.05,0.05,,24000,24360,25300,25680,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,A11 Hargham,0.14,0.14,,25700,26086,29400,29841,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,Norwich Rd (A11 on slip – Attleborough),-0.19,-0.19,,2700,2741,2200,2233,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,Norwich Road (A11 off slip – Mill Lane),-0.17,-0.17,,9300,9440,7700,7816,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,Deopham Road (Nth of A11 on slip),-0.01,-0.01,,680,690,670,680,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,Ellingham Rd (Deopham Rd – Warrens Lane),-0.18,-0.18,,8200,8323,6700,6801,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,Queens Rd (A11 off slip – Queens Court),-0.18,-0.18,,8400,8526,6900,7004,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,Station Rd (Connaught Rd – New North Rd),-0.28,-0.28,,11400,11571,8200,8323,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,"West Carr Rd (East of Long St), Sth of Walnut Tree Farm",-0.38,-0.38,,370,376,230,233,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,"Wroo Rd, (Swangey Lane – A11)",-0.15,-0.15,,1300,1320,1100,1117,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,"B1077 London Road (East of A11, West of Fen St)",0.25,0.25,,3600,3654,4500,4568,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,Existing stretches total,-0.17,-0.17,,45950,46639,38200,38773,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,New project total,0.09,0.09,,74600,75719,81200,82418,2004,,2005,2007,2007,2,2007
+UK,A11,Attleborough Bypass,New network total,-0.01,-0.01,,120550,122358,119400,121191,2004,,2005,2007,2007,2,2007
+UK,A14,Rookery Crossroads,A14,1.00,1.00,,,,,,,,2004,,2006,3,
+UK,A14,Rookery Crossroads,Site 4,0.35,0.35,,1840,1840,2480,2480,,,2004,2007,2006,3,2007
+UK,A14,Rookery Crossroads,Site 5,0.28,0.28,,1560,1560,2000,2000,,,2004,2007,2006,3,2007
+UK,A14,Rookery Crossroads,Site 6,0.01,0.01,,1820,1820,1840,1840,,,2004,2007,2006,3,2007
+UK,A14,Rookery Crossroads,Existing stretches total,0.21,0.21,,5220,5220,6320,6320,,,2004,2007,2006,3,2007
+UK,A14,Rookery Crossroads,New project total,1.00,1.00,,,,,,,,2004,2007,2006,3,2007
+UK,A14,Rookery Crossroads,New network total,0.90,0.90,,,,,,,,2004,2007,2006,3,2007
+UK,A21,Lamberhurst Bypass,A21 Lamberhurst Bypass,0.04,0.04,,16400,16400,17100,17100,1998,,2004,2006,2005,3,2006
+UK,A21,Lamberhurst Bypass,A21 Lamberhurst Quarter (NW of bypass),-0.05,-0.05,,24450,24450,23300,23300,1998,,2004,2006,2005,3,2006
+UK,A21,Lamberhurst Bypass,old A21 south of Lamberhurst (Spray Hill),-0.84,-0.84,,3850,3850,600,600,1998,,2004,2006,2005,3,2006
+UK,A21,Lamberhurst Bypass,old A21 Lamberhurst village centre / (B2100 + Spray Hill),-0.42,-0.42,,6750,6750,3900,3900,1998,,2004,2006,2005,3,2006
+UK,A21,Lamberhurst Bypass,B2169 S of Lamberhurst (between B2100 & Spray Hill),-0.03,-0.03,,6000,6000,5800,5800,1998,,2004,2006,2005,3,2006
+UK,A21,Lamberhurst Bypass,B2100 Lamberhurst south (S of old A21),0.18,0.18,,2800,2800,3300,3300,1998,,2004,2006,2005,3,2006
+UK,A21,Lamberhurst Bypass,Existing stretches total,-0.30,-0.30,,19400,19400,13600,13600,1998,,2004,2006,2005,3,2006
+UK,A21,Lamberhurst Bypass,New project total,-0.01,-0.01,,40850,40850,40400,40400,1998,,2004,2006,2005,3,2006
+UK,A21,Lamberhurst Bypass,New network total,-0.10,-0.10,,60250,60250,54000,54000,1998,,2004,2006,2005,3,2006
+UK,A27,Polegate Bypass,A27 Polegate Bypass,-0.14,-0.05,,32250,29058,27600,27600,1991,,2000,2010,2002,6,2003
+UK,A27,Polegate Bypass,A22 Golden Jubilee Way,0.00,0.11,,26050,23472,26000,26000,1991,,2000,2010,2002,6,2003
+UK,A27,Polegate Bypass,B2247 (Dittons Road),-0.07,0.03,,8300,7479,7700,7700,1991,,2000,2010,2002,6,2003
+UK,A27,Polegate Bypass,Existing stretches total,-0.02,0.09,,34350,30950,33700,33700,1991,,2000,2010,2002,6,2003
+UK,A27,Polegate Bypass,New project total,-0.14,-0.05,,32250,29058,27600,27600,1991,,2000,2010,2002,6,2003
+UK,A27,Polegate Bypass,New network total,-0.08,0.02,,66600,60008,61300,61300,1991,,2000,2010,2002,6,2003
+UK,A30,Merrymeet Bypass,A30 West of J,0.11,0.07,,23051,23397,25500,25123,2004,,2005,2006,2006,12,2008
+UK,A30,Merrymeet Bypass,A30 East of J,0.15,0.12,,24657,25027,28400,27980,2004,,2005,2006,2006,12,2008
+UK,A30,Merrymeet Bypass,New project total,0.13,0.10,,47708,48424,53900,53103,2004,,2005,2006,2006,12,2008
+UK,A34,A34/M4 Chieveley Improvement,A34 main c'way under A4,0.30,0.30,,28300,28300,36900,36900,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Offslip NB from A34 to Priors Court Rd,-0.12,-0.12,,4100,4100,3600,3600,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Slip SB from Priors Court Rd,0.08,0.08,,3600,3600,3900,3900,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Offslip NB from A34 to J13 roundabout,-0.03,-0.03,,17600,17600,17000,17000,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Onslip SB to A34 from J13 roundabout,0.34,0.34,,12900,12900,17300,17300,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Onslip NB to A34 from J13 roundabout,-0.04,-0.04,,9700,9700,9300,9300,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Offslip SB from A34 to J13 roundabout,-0.06,-0.06,,9300,9300,8700,8700,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Onslip WB to M4 from J13 roundabout,-0.15,-0.15,,13800,13800,11700,11700,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Offslip EB from M4 to J13 roundabout,0.15,0.15,,11100,11100,12800,12800,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Offslip WB from M4 to J13 roundabout,-0.12,-0.12,,14500,14500,12800,12800,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Onslip EB to M4 from J13 roundabout,0.03,0.03,,12400,12400,12800,12800,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,Existing stretches total,0.30,0.30,,28300,28300,36900,36900,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,New project total,0.01,0.01,,109000,109000,109900,109900,1994,,2002,2005,2004,9,2005
+UK,A34,A34/M4 Chieveley Improvement,New network total,0.07,0.07,,137300,137300,146800,146800,1994,,2002,2005,2004,9,2005
+UK,A34,Newbury Bypass,A34 Bypass North of A4,0.64,0.64,,17855,17855,29333,29333,1992,,1995,1999,1998,11,1999
+UK,A34,Newbury Bypass,A34 Bypass South of A4,0.31,0.31,,24070,24070,31473,31473,1992,,1995,1999,1998,11,1999
+UK,A34,Newbury Bypass,A34 Bypass South of A343,0.54,0.54,,17733,17733,27391,27391,1992,,1995,1999,1998,11,1999
+UK,A34,Newbury Bypass,"A339 Donnington Link, north of Newbury",-0.07,-0.07,,18348,18348,17102,17102,1992,,1995,1999,1998,11,1999
+UK,A34,Newbury Bypass,"A339 Inner Ring Road, south of A4",0.09,0.09,,29635,29635,32412,32412,1992,,1995,1999,1998,11,1999
+UK,A34,Newbury Bypass,"A339 Tot Hill, south of Newbury",0.67,0.67,,4010,4010,6713,6713,1992,,1995,1999,1998,11,1999
+UK,A34,Newbury Bypass,Existing stretches total,0.08,0.08,,51993,51993,56227,56227,1992,,1995,1999,1998,11,1999
+UK,A34,Newbury Bypass,New project total,0.48,0.48,,59658,59658,88197,88197,1992,,1995,1999,1998,11,1999
+UK,A34,Newbury Bypass,New network total,0.29,0.29,,111651,111651,144424,144424,1992,,1995,1999,1998,11,1999
+UK,A41,Aston Clinton Bypass,A41 Bypass,-0.28,-0.28,,28400,26363,20400,18937,1995,,2001,2009,2003,10,2009
+UK,A41,Aston Clinton Bypass,Former A41 through Aston Clinton,0.27,0.27,,9200,8540,11700,10861,1995,,2001,2009,2003,10,2009
+UK,A41,Aston Clinton Bypass,Existing stretches total,0.27,0.27,,9200,8540,11700,10861,1995,,2001,2009,2003,10,2009
+UK,A41,Aston Clinton Bypass,New project total,-0.28,-0.28,,28400,26363,20400,18937,1995,,2001,2009,2003,10,2009
+UK,A41,Aston Clinton Bypass,New network total,-0.15,-0.15,,37600,34903,32100,29797,1995,,2001,2009,2003,10,2009
+UK,A43,Silverstone Improvements,New Syresham BP,0.46,0.46,,23629,21934,34407,31939,,,2000,2008,2002,9,2008
+UK,A43,Silverstone Improvements,New Silverstone BP,0.29,0.29,,27062,25121,34902,32398,,,2000,2008,2002,9,2008
+UK,A43,Silverstone Improvements,A43 nr Cottisford,0.34,0.34,,25361,23542,34066,31622,,,2000,2008,2002,9,2008
+UK,A43,Silverstone Improvements,"Old A43, Silverstone",-0.33,-0.33,,3368,3126,2247,2086,,,2000,2008,2002,9,2008
+UK,A43,Silverstone Improvements,"Old A43, Syresham",0.18,0.18,,445,413,523,485,,,2000,2008,2002,9,2008
+UK,A43,Silverstone Improvements,Existing stretches total,0.26,0.26,,29174,27081,36836,34193,,,2000,2008,2002,9,2008
+UK,A43,Silverstone Improvements,New project total,0.37,0.37,,50691,47054,69309,64337,,,2000,2008,2002,9,2008
+UK,A43,Silverstone Improvements,New network total,0.33,0.33,,79865,74136,106145,98530,,,2000,2008,2002,9,2008
+UK,A46,Newark - Lincoln Improvements,A46 North,0.51,0.51,,16296,16296,24594,24594,1998,,2002,2004,2003,7,2004
+UK,A46,Newark - Lincoln Improvements,A46 South,0.50,0.50,,18696,18696,28019,28019,1998,,2002,2004,2003,7,2004
+UK,A46,Newark - Lincoln Improvements,New project total,0.50,0.50,,34992,34992,52613,52613,1998,,2002,2004,2003,7,2004
+UK,A47,Thorney Bypass,A47 bypass West of B1040,0.30,0.30,,12920,12729,16800,16552,2002,,2004,2007,2005,12,2007
+UK,A47,Thorney Bypass,A47 bypass East of B1040,0.32,0.32,,11960,11783,15750,15517,2002,,2004,2007,2005,12,2007
+UK,A47,Thorney Bypass,B1167 West of B1040,-0.53,-0.53,,5010,4936,2360,2325,2002,,2004,2007,2005,12,2007
+UK,A47,Thorney Bypass,B1167 East of B1040 (near B1040 junction),-0.51,-0.51,,6010,5921,2970,2926,2002,,2004,2007,2005,12,2007
+UK,A47,Thorney Bypass,B1167 East of B1040 (near A47 Bypass junction),-0.83,-0.83,,3620,3567,620,611,2002,,2004,2007,2005,12,2007
+UK,A47,Thorney Bypass,Existing stretches total,-0.59,-0.59,,14640,14424,5950,5862,2002,,2004,2007,2005,12,2007
+UK,A47,Thorney Bypass,New project total,0.31,0.31,,24880,24512,32550,32069,2002,,2004,2007,2005,12,2007
+UK,A47,Thorney Bypass,New network total,-0.03,-0.03,,39520,38936,38500,37931,2002,,2004,2007,2005,12,2007
+UK,A63,Melton GSJ,A63 W of Welton,-0.14,-0.14,,46738,47439,40337,40942,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,A63 E of Melton,-0.17,-0.17,,54652,55472,45565,46248,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,South Lawn Way,-0.37,-0.37,,8238,8362,5182,5260,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,Monks Way East,-0.58,-0.58,,6076,6167,2543,2581,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,Link Road,-0.20,-0.20,,5002,5077,3984,4044,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,Melton WB offslip,-0.45,-0.45,,2407,2443,1314,1334,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,Melton WB onslip,-0.40,-0.40,,5230,5308,3137,3184,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,Melton EB offslip,-0.40,-0.40,,4985,5060,2985,3030,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,Melton EB onslip,-0.51,-0.51,,2697,2737,1312,1332,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,Melton overbridge,-0.36,-0.36,,7725,7841,4910,4984,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,Existing stretches total,-0.40,-0.40,,42360,42995,25367,25748,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,New project total,-0.15,-0.15,,101390,102911,85902,87191,1998,,2004,2006,2006,10,2006
+UK,A63,Melton GSJ,New network total,-0.23,-0.23,,143750,145906,111269,112938,1998,,2004,2006,2006,10,2006
+UK,A66,Carkin Moor - Scotch Corner Improvement,"A66, East of Moor Road",0.05,0.00,,15200,15659,15900,15665,,,2006,2006,2007,9,2009
+UK,A66,Carkin Moor - Scotch Corner Improvement,"A66, West of B6274",0.09,0.04,,15200,15659,16500,16256,,,2006,2006,2007,9,2009
+UK,A66,Carkin Moor - Scotch Corner Improvement,"Moor Road, North of A66",0.15,0.10,,1300,1339,1500,1478,,,2006,2006,2007,9,2009
+UK,A66,Carkin Moor - Scotch Corner Improvement,"Hargill, South of A66",0.23,0.17,,1550,1597,1900,1872,,,2006,2006,2007,9,2009
+UK,A66,Carkin Moor - Scotch Corner Improvement,"B6274, South of A66",0.30,0.24,,1000,1030,1300,1281,,,2006,2006,2007,9,2009
+UK,A66,Carkin Moor - Scotch Corner Improvement,Existing stretches total,0.22,0.17,,3850,3966,4700,4631,,,2006,2006,2007,9,2009
+UK,A66,Carkin Moor - Scotch Corner Improvement,New project total,0.07,0.02,,30400,31319,32400,31921,,,2006,2006,2007,9,2009
+UK,A66,Carkin Moor - Scotch Corner Improvement,New network total,0.08,0.04,,34250,35285,37100,36552,,,2006,2006,2007,9,2009
+UK,A66,Greta Bridge - Stephen Bank Improvement,A66 East of Lanehead Lane,0.05,0.00,,15200,15659,15900,15665,2003,,2006,2006,2007,9,2009
+UK,A66,Greta Bridge - Stephen Bank Improvement,A66 West of Low Lane East,0.04,-0.01,,15200,15659,15800,15567,2003,,2006,2006,2007,9,2009
+UK,A66,Greta Bridge - Stephen Bank Improvement,"Lanehead Lane, North of A66",0.00,-0.04,,400,412,400,394,2003,,2006,2006,2007,9,2009
+UK,A66,Greta Bridge - Stephen Bank Improvement,"Low Lane East, South of A66",0.33,0.28,,750,773,1000,985,2003,,2006,2006,2007,9,2009
+UK,A66,Greta Bridge - Stephen Bank Improvement,Existing stretches total,0.22,0.16,,1150,1185,1400,1379,2003,,2006,2006,2007,9,2009
+UK,A66,Greta Bridge - Stephen Bank Improvement,New project total,0.04,0.00,,30400,31319,31700,31232,2003,,2006,2006,2007,9,2009
+UK,A66,Greta Bridge - Stephen Bank Improvement,New network total,0.05,0.00,,31550,32504,33100,32611,2003,,2006,2006,2007,9,2009
+UK,A249,Iwade Queenborough Improvement,A249 Iwade to Cowstead,-0.04,-0.04,,27500,27500,26500,26500,1997,2003,2004,2007,2006,7,2007
+UK,A249,Iwade Queenborough Improvement,Local Access Road (old A249),0.06,0.06,,3100,3100,3300,3300,1997,2003,2004,2007,2006,7,2007
+UK,A249,Iwade Queenborough Improvement,Existing stretches total,0.06,0.06,,3100,3100,3300,3300,1997,2003,2004,2007,2006,7,2007
+UK,A249,Iwade Queenborough Improvement,New project total,-0.04,-0.04,,27500,27500,26500,26500,1997,2003,2004,2007,2006,7,2007
+UK,A249,Iwade Queenborough Improvement,New network total,-0.03,-0.03,,30600,30600,29800,29800,1997,2003,2004,2007,2006,7,2007
+UK,A419,Commonhead Junction,A419 N of Commonhead,0.00,0.00,,54150,54150,53933,53933,1999,,2005,2008,2007,3,2008
+UK,A419,Commonhead Junction,A419 S of Commonhead,-0.04,-0.04,,58770,58770,56575,56575,1999,,2005,2008,2007,3,2008
+UK,A419,Commonhead Junction,A419 Flyover,0.02,0.02,,42000,42000,42917,42917,1999,,2005,2008,2007,3,2008
+UK,A419,Commonhead Junction,A419 NB Onslip,0.13,0.13,,5168,5168,5862,5862,1999,,2005,2008,2007,3,2008
+UK,A419,Commonhead Junction,A419 NB Offslip,-0.27,-0.27,,8580,8580,6284,6284,1999,,2005,2008,2007,3,2008
+UK,A419,Commonhead Junction,A419 SB Onslip,-0.10,-0.10,,8190,8190,7374,7374,1999,,2005,2008,2007,3,2008
+UK,A419,Commonhead Junction,A419 SB Offslip,-0.27,-0.27,,7020,7020,5154,5154,1999,,2005,2008,2007,3,2008
+UK,A419,Commonhead Junction,A4259 W of Junction,-0.42,-0.42,,40000,40000,23229,23229,1999,,2005,2008,2007,3,2008
+UK,A419,Commonhead Junction,Existing stretches total,-0.31,-0.31,,68958,68958,47903,47903,1999,,2005,2008,2007,3,2008
+UK,A419,Commonhead Junction,New project total,-0.01,-0.01,,105938,105938,105354,105354,1999,,2005,2008,2007,3,2008
+UK,A419,Commonhead Junction,New network total,-0.12,-0.12,,174896,174896,153257,153257,1999,,2005,2008,2007,3,2008
+UK,A421,Great Barford Bypass,A421 Great Barford Bypass,0.13,0.09,,22000,22794,24841,24841,2002,,2004,2005,2006,8,2007
+UK,A421,Great Barford Bypass,"Old Road, West of Great Barford",0.38,0.33,,1600,1658,2206,2206,2002,,2004,2005,2006,8,2007
+UK,A421,Great Barford Bypass,"Old Road, East of Great Barford",0.38,0.33,,4700,4870,6490,6490,2002,,2004,2005,2006,8,2007
+UK,A421,Great Barford Bypass,Existing stretches total,0.38,0.33,,6300,6528,8696,8696,2002,,2004,2005,2006,8,2007
+UK,A421,Great Barford Bypass,New project total,0.38,0.33,,1600,1658,2206,2206,2002,,2004,2005,2006,8,2007
+UK,A421,Great Barford Bypass,New network total,0.38,0.33,,7900,8186,10902,10902,2002,,2004,2005,2006,8,2007
+UK,A500,"Basford, Hough, Shavington Bypass","A500 Bypass, East",0.26,0.26,,12000,11306,15100,14227,2000,,2001,2008,2003,5,2008
+UK,A500,"Basford, Hough, Shavington Bypass","A500 Bypass, West",0.47,0.47,,12600,11872,18500,17430,2000,,2001,2008,2003,5,2008
+UK,A500,"Basford, Hough, Shavington Bypass",A500 East of Bypass,0.54,0.54,,10400,9799,16000,15075,2000,,2001,2008,2003,5,2008
+UK,A500,"Basford, Hough, Shavington Bypass",A500 West of Bypass,0.20,0.20,,23200,21859,27900,26287,2000,,2001,2008,2003,5,2008
+UK,A500,"Basford, Hough, Shavington Bypass",A534 in Crewe,-0.21,-0.21,,30700,28925,24200,22801,2000,,2001,2008,2003,5,2008
+UK,A500,"Basford, Hough, Shavington Bypass","Old A500, East of Hough",0.21,0.21,,4300,4051,5200,4899,2000,,2001,2008,2003,5,2008
+UK,A500,"Basford, Hough, Shavington Bypass","Old A500, West of Hough",0.24,0.24,,3300,3109,4100,3863,2000,,2001,2008,2003,5,2008
+UK,A500,"Basford, Hough, Shavington Bypass",Existing stretches total,0.08,0.08,,71900,67743,77400,72925,2000,,2001,2008,2003,5,2008
+UK,A500,"Basford, Hough, Shavington Bypass",New project total,0.37,0.37,,24600,23178,33600,31657,2000,,2001,2008,2003,5,2008
+UK,A500,"Basford, Hough, Shavington Bypass",New network total,0.15,0.15,,96500,90921,111000,104582,2000,,2001,2008,2003,5,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"A500, N of A50",-0.14,-0.14,,81264,81264,69675,69675,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"A500 mainline, Stoke Rd-City Rd",-0.08,-0.08,,64990,64990,59856,59856,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"A500, N of B5054",-0.09,-0.09,,76167,76167,69517,69517,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"A500 slips (2-way), S of City Rd",-0.35,-0.35,,23445,23445,15130,15130,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"A500 links (2-way), N of City Rd",-0.38,-0.38,,20594,20594,12806,12806,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"A500 links (2-way), S of Stoke Rd",-0.47,-0.47,,19500,19500,10343,10343,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"A500 slips (2-way), N of Stoke Rd",-0.15,-0.15,,20905,20905,17780,17780,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"Whieldon Rd, E of A500",-0.48,-0.48,,6060,6060,3132,3132,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"City Rd, E of A500",-0.20,-0.20,,25038,25038,20106,20106,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"Church St, W of A500",-0.02,-0.02,,8857,8857,8713,8713,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"Stoke Rd, E of A500",-0.24,-0.24,,17768,17768,13448,13448,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,"Shelton Old Rd, W of Liverpool Rd",-0.23,-0.23,,10004,10004,7657,7657,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,Liverpool Rd,-0.28,-0.28,,6949,6949,5000,5000,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,Existing stretches total,-0.11,-0.11,,222421,222421,199048,199048,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,New project total,-0.28,-0.28,,159120,159120,114115,114115,,,2004,2008,2007,9,2008
+UK,A500,City Road & Stoke Road Junction Improvements,New network total,-0.18,-0.18,,381541,381541,313163,313163,,,2004,2008,2007,9,2008
+UK,A650,Bingley Relief Road,A650 Bingley Relief Road North,-0.14,-0.14,,34400,33892,29600,29163,,2004,2001,2005,2003,9,2005
+UK,A650,Bingley Relief Road,A650 Bingley Relief Road South,-0.16,-0.16,,36400,35862,30600,30148,,2004,2001,2005,2003,9,2005
+UK,A650,Bingley Relief Road,‘old’ A650 Main Street Bingley,0.15,0.15,,13700,13498,15800,15567,,2004,2001,2005,2003,9,2005
+UK,A650,Bingley Relief Road,Existing stretches total,0.15,0.15,,13700,13498,15800,15567,,2004,2001,2005,2003,9,2005
+UK,A650,Bingley Relief Road,New project total,-0.15,-0.15,,70800,69754,60200,59310,,2004,2001,2005,2003,9,2005
+UK,A650,Bingley Relief Road,New network total,-0.10,-0.10,,84500,83251,76000,74877,,2004,2001,2005,2003,9,2005
+UK,A1033,Hedon Road Improvement,New Hedon Rd (W of Southcoates La),0.12,0.12,,24600,24600,27500,27500,1993,,2001,2004,2003,11,2004
+UK,A1033,Hedon Road Improvement,New Hedon Rd (E of Southcoates La),0.09,0.09,,32500,32500,35400,35400,1993,,2001,2004,2003,11,2004
+UK,A1033,Hedon Road Improvement,New project total,0.10,0.10,,57100,57100,62900,62900,1993,,2001,2004,2003,11,2004
+UK,M1,Junction 31-32 Widening,M1 J31-32 northbound,-0.10,-0.11,,72501,74692,65462,66444,1994,,2007,2007,2008,2,2008
+UK,M1,Junction 31-32 Widening,M1 J31-32 southbound,-0.11,-0.12,,73657,75883,65470,66452,1994,,2007,2007,2008,2,2008
+UK,M1,Junction 31-32 Widening,New project total,-0.10,-0.12,,146158,150576,130932,132896,1994,,2007,2007,2008,2,2008
+UK,M4,Junction 18 Easbound Diverge,,-0.14,-0.14,,50600,50600,43600,43600,2004,,2005,2006,2005,11,2006
+UK,M4,Junction 18 Easbound Diverge,New project total,-0.14,-0.14,,50600,50600,43600,43600,2004,,2005,2006,2005,11,2006
+UK,M5,Climbing Lanes,Naish,-0.05,-0.05,,49020,49020,46369,46369,,,2005,2007,2006,6,2007
+UK,M5,Climbing Lanes,Tickenham,-0.05,-0.05,,50197,50197,47519,47519,,,2005,2007,2006,6,2007
+UK,M5,Climbing Lanes,Hallen,-0.06,-0.06,,52527,52527,49473,49473,,,2005,2007,2006,6,2007
+UK,M5,Climbing Lanes,New project total,-0.06,-0.06,,151744,151744,143361,143361,,,2005,2007,2006,6,2007
+UK,M6,Toll,M6 J3–J3A (E of M6 Toll tie-in),-0.23,-0.23,,164350,148084,126300,113800,2003,,,2011,2003,12,2011
+UK,M6,Toll,M6 J11-11A,-0.11,-0.11,,99900,90013,89300,80462,2003,,,2011,2003,12,2011
+UK,M6,Toll,M6 J11A -J12,-0.13,-0.13,,145300,130919,126200,113710,2003,,,2011,2003,12,2011
+UK,M6,Toll,M6 Toll (T2 - T3),-0.27,-0.27,,57800,52079,42300,38113,2003,,,2011,2003,12,2011
+UK,M6,Toll,M6 Toll (T3 - T4),-0.27,-0.27,,58100,52350,42500,38294,2003,,,2011,2003,12,2011
+UK,M6,Toll,M6 Toll (T5 - T6),-0.33,-0.33,,67450,60774,45000,40546,2003,,,2011,2003,12,2011
+UK,M6,Toll,M6 Toll (T6 - T7),-0.31,-0.31,,65550,59062,45000,40546,2003,,,2011,2003,12,2011
+UK,M6,Toll,M6 Toll (T8 - M6 North),-0.17,-0.17,,45500,40997,37700,33969,2003,,,2011,2003,12,2011
+UK,M6,Toll,M42 J9 – 10,-0.06,-0.06,,82800,74605,77600,69920,2003,,,2011,2003,12,2011
+UK,M6,Toll,A38 A5 - A453 (Canwell Hall),-0.25,-0.25,,42650,38429,32100,28923,2003,,,2011,2003,12,2011
+UK,M6,Toll,A5 East of Brownhills (A452-A461),-0.10,-0.10,,21550,19417,19400,17480,2003,,,2011,2003,12,2011
+UK,M6,Toll,"A5 Great Wyrley, (E of A34)",-0.12,-0.12,,32500,29283,28500,25679,2003,,,2011,2003,12,2011
+UK,M6,Toll,A446 A38-A4091,0.09,0.09,,17750,15993,19400,17480,2003,,,2011,2003,12,2011
+UK,M6,Toll,Existing stretches total,-0.10,-0.10,,197250,177728,177000,159482,2003,,,2011,2003,12,2011
+UK,M6,Toll,New project total,-0.21,-0.21,,703950,634278,554300,499439,2003,,,2011,2003,12,2011
+UK,M6,Toll,New network total,-0.19,-0.19,,901200,812005,731300,658921,2003,,,2011,2003,12,2011
+UK,M25,Junction 12-15 Widening,N of J15,0.21,0.21,,75525,75525,91400,91400,1996,,,2006,2005,12,2006
+UK,M25,Junction 12-15 Widening,E of J15,-0.05,-0.05,,81125,81125,76900,76900,1996,,,2006,2005,12,2006
+UK,M25,Junction 12-15 Widening,W of J15,-0.03,-0.03,,79875,79875,77600,77600,1996,,,2006,2005,12,2006
+UK,M25,Junction 12-15 Widening,S of J15,0.01,0.01,,96625,96625,98050,98050,1996,,,2006,2005,12,2006
+UK,M25,Junction 12-15 Widening,N of J13,0.05,0.05,,97050,97050,102050,102050,1996,,,2006,2005,12,2006
+UK,M25,Junction 12-15 Widening,N of J12,0.05,0.05,,91050,91050,95500,95500,1996,,,2006,2005,12,2006
+UK,M25,Junction 12-15 Widening,E of J12,-0.08,-0.08,,36450,36450,33700,33700,1996,,,2006,2005,12,2006
+UK,M25,Junction 12-15 Widening,W of J12,-0.08,-0.08,,68125,68125,62700,62700,1996,,,2006,2005,12,2006
+UK,M25,Junction 12-15 Widening,S of J12,-0.02,-0.02,,91175,91175,89750,89750,1996,,,2006,2005,12,2006
+UK,M25,Junction 12-15 Widening,New project total,0.01,0.01,,717000,717000,727650,727650,1996,,,2006,2005,12,2006
+UK,M40 A404,Junction 4 and Handy Cross Junction,Handy Cross r’bt between M40 W/B on slip and M40 E/B off slip,0.13,0.13,,33500,33500,38000,38000,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,M40 Jn 4 E/B Off Slip,0.21,0.21,,13300,13300,16100,16100,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Exit from r’bt to A4010 N/B,0.10,0.10,,11300,11300,12400,12400,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Entry to r’bt from A4010 S/B,0.12,0.12,,9300,9300,10400,10400,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Exit from r’bt to C100 (N) N/B,0.15,0.15,,7800,7800,9000,9000,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Entry to r’bt from C100 (N) S/B,0.03,0.03,,10200,10200,10500,10500,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Exit from r’bt to A404 N/B,0.08,0.08,,12000,12000,13000,13000,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Entry to r’bt from A404 S/B,0.08,0.08,,16400,16400,17700,17700,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,M40 Jn 4 E/B on slip,0.01,0.01,,19700,19700,19900,19900,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Handy Cross r’bt between M40 E/B on slip and M40 W/B off slip,0.11,0.11,,31300,31300,34600,34600,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,M40 Jn 4 W/B off slip,0.22,0.22,,16800,16800,20500,20500,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Exit from r’bt to A404 (S) S/B,0.06,0.06,,28800,28800,30600,30600,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Entry to r’bt from A404 (S)N/B,-0.14,-0.14,,20500,20500,17600,17600,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Exit from r’bt to C100 (S) S/B,0.10,0.10,,4900,4900,5400,5400,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,Entry to r’bt from C100 (S) N/B,0.06,0.06,,9400,9400,10000,10000,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,M40 Jn 4 W/B on slip,0.10,0.10,,11300,11300,12400,12400,2004,2006,2005,2008,2007,5,2008
+UK,M40 A404,Junction 4 and Handy Cross Junction,New project total,0.08,0.08,,256500,256500,278100,278100,2004,2006,2005,2008,2007,5,2008
+UK,M60,Junctions 5 - 8 Widenning,J4 - J5,-0.12,-0.12,,80000,80000,70500,70500,1997,1999,2003,2007,2006,6,2007
+UK,M60,Junctions 5 - 8 Widenning,J5 - J6,-0.36,-0.02,,111000,111000,70500,109000,1997,1999,2003,2007,2006,6,2007
+UK,M60,Junctions 5 - 8 Widenning,J8 - J9,0.06,0.06,,107000,107000,113000,113000,1997,1999,2003,2007,2006,6,2007
+UK,M60,Junctions 5 - 8 Widenning,New project total,-0.15,-0.02,,298000,298000,254000,292500,1997,1999,2003,2007,2006,6,2007
